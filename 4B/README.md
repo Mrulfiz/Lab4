@@ -37,14 +37,14 @@ Lab Evidence
 Question 1: JSON Validation
 
 Screenshot showing books.json parsing successfully without errors:
-![Q1 Validation](lab4/images/4BQ1.png)
+![Q1 Validation](images/4BQ1.png)
 
 Question 2: Retrieve and Display JSON Data
 
 Screenshot showing the successfully fetched book titles, authors, and genres:
-![Q2 Output](lab4/images/4BQ2.png)
+![Q2 Output](images/4BQ2.png)
 
 Question 3: jQuery vs Native DOM
 
-![Q3](lab4/images/4BQ3A.png)
-![Q3](lab4/images/4BQ3B.png)
+![Q3](images/4BQ3A.png)
+![Q3](images/4BQ3B.png)
