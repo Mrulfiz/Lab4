@@ -22,7 +22,7 @@ How to Run the Code
 
 Clone this repository to your local machine:
 
-git clone https://github.com/[Mrulfiz]/bic21203-lab4a-javascript.git
+git clone [https://github.com/Mrulfiz/Lab4.git]
 
 
 Navigate to the specific question folder (e.g., Q1, Q2, or Q3).
@@ -38,7 +38,7 @@ Description: A simple webpage that uses DOM selection methods, a custom function
 Output Screenshot:
 
 ![Q1 Output Before](https://github.com/Mrulfiz/Lab4/blob/main/images/4AQ1A.png?raw=true)
-![Q1 Output After](images/4AQ1B.png)
+![Q1 Output After](https://github.com/Mrulfiz/Lab4/blob/main/images/4AQ1B.png?raw=true)
 
 Question 2: Smart Number Validator
 
@@ -57,10 +57,10 @@ abc / Empty space -> "Please enter a valid number!"
 Output Screenshots:
 
 
-![Q2 Output](images/4AQ2low.png)
-![Q2 Output](images/4AQ2high.png)
-![Q2 Output](images/4AQ2wrong.png)
-![Q2 Output](images/4AQ2equal.png)
+![Q2 Output](https://github.com/Mrulfiz/Lab4/blob/main/images/4AQ2low.png?raw=true)
+![Q2 Output](https://github.com/Mrulfiz/Lab4/blob/main/images/4AQ2high.png?raw=true)
+![Q2 Output](https://github.com/Mrulfiz/Lab4/blob/main/images/4AQ2wrong.png?raw=true)
+![Q2 Output](https://github.com/Mrulfiz/Lab4/blob/main/images/4AQ2,equal.png?raw=true)
 
 Question 3: Dynamic Number Generator
 
@@ -68,5 +68,5 @@ Description: A webpage that generates an ordered list (<ol>) from 1 to 5 using a
 
 Output Screenshot:
 
-![Q3 Output Before](images/4AQ3,1.png)
-![Q3 Output After](images/4AQ3,2.png)
+![Q3 Output Before](https://github.com/Mrulfiz/Lab4/blob/main/images/4AQ3,1.png?raw=true)
+![Q3 Output After](https://github.com/Mrulfiz/Lab4/blob/main/images/4AQ3,2.png?raw=true)
