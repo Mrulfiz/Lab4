@@ -37,8 +37,8 @@ Description: A simple webpage that uses DOM selection methods, a custom function
 
 Output Screenshot:
 
-![Q1 Output Before](lab4\images\4AQ1A.png)
-![Q1 Output After](lab4\images\4AQ1B.png)
+![Q1 Output Before](lab4/images/4AQ1A.png)
+![Q1 Output After](lab4/images/4AQ1B.png)
 
 Question 2: Smart Number Validator
 
@@ -57,10 +57,10 @@ abc / Empty space -> "Please enter a valid number!"
 Output Screenshots:
 
 
-![Q2 Output](lab4\images\4AQ2low.png)
-![Q2 Output](lab4\images\4AQ2high.png)
-![Q2 Output](lab4\images\4AQ2wrong.png)
-![Q2 Output](lab4\images\4AQ2equal.png)
+![Q2 Output](lab4/images/4AQ2low.png)
+![Q2 Output](lab4/images/4AQ2high.png)
+![Q2 Output](lab4/images/4AQ2wrong.png)
+![Q2 Output](lab4/images/4AQ2equal.png)
 
 Question 3: Dynamic Number Generator
 
@@ -68,5 +68,5 @@ Description: A webpage that generates an ordered list (<ol>) from 1 to 5 using a
 
 Output Screenshot:
 
-![Q3 Output Before](lab4\images\4AQ3,1.png)
-![Q3 Output After](lab4\images\4AQ3,2.png)
+![Q3 Output Before](lab4/images/4AQ3,1.png)
+![Q3 Output After](lab4/images/4AQ3,2.png)
