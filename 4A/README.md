@@ -37,7 +37,7 @@ Description: A simple webpage that uses DOM selection methods, a custom function
 
 Output Screenshot:
 
-![Q1 Output Before](images/4AQ1A.png)
+![Q1 Output Before](https://github.com/Mrulfiz/Lab4/blob/main/images/4AQ1A.png?raw=true)
 ![Q1 Output After](images/4AQ1B.png)
 
 Question 2: Smart Number Validator
