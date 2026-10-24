@@ -22,7 +22,7 @@ How to Run the Code
 
 Clone this repository to your local machine:
 
-git clone [https://github.com/Mrulfiz/Lab4.git]
+git clone [https://github.com/Mrulfiz/bic21203-lab4.git]
 
 
 Navigate to the specific question folder (e.g., Q1, Q2, or Q3).
