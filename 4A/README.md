@@ -18,7 +18,7 @@ Q2/ - Question 2: Smart Number Validator
 
 Q3/ - Question 3: Dynamic Number Generator
 
-🚀 How to Run the Code
+How to Run the Code
 
 Clone this repository to your local machine:
 
@@ -29,7 +29,7 @@ Navigate to the specific question folder (e.g., Q1, Q2, or Q3).
 
 Open the .html file inside the folder using any modern desktop web browser (e.g., Chrome, Firefox, Edge). No external libraries or local servers are required.
 
-🔍 Lab Questions & Evidence
+Lab Questions & Evidence
 
 Question 1: Interactive Text Changer
 
